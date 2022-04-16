@@ -1,4 +1,4 @@
-package cn.ustc.edu.config;
+package cn.edu.ustc.config;
 
 import com.google.common.base.Predicates;
 import org.springframework.context.annotation.Bean;

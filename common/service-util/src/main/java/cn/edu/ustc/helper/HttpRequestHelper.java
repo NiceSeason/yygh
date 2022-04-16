@@ -1,4 +1,4 @@
-package cn.ustc.edu.helper;
+package cn.edu.ustc.helper;
 
 import cn.ustc.edu.yygh.util.HttpUtil;
 import cn.ustc.edu.yygh.util.MD5;

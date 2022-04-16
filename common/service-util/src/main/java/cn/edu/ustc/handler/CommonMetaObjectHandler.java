@@ -1,4 +1,4 @@
-package cn.ustc.edu.handler;
+package cn.edu.ustc.handler;
 
 import com.baomidou.mybatisplus.core.handlers.MetaObjectHandler;
 import org.apache.ibatis.reflection.MetaObject;
